@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import TitleDiv from "./components/Title";
 export default function Home() {
   return (
-    <div>
+    <div class="bg-black">
     <Navbar></Navbar>
     <TitleDiv />
     </div>

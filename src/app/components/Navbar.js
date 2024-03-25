@@ -38,7 +38,7 @@ const Navbar = () => {
                 <div
                     className={
                         "lg:inline-flex lg:flex-row flex flex-col " +
-                        (showNav ? "" : "hidden")
+                        (showNav ? "" : "hidden text-right")
                     }
                 >
                     <a
